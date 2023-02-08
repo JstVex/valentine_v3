@@ -1,0 +1,82 @@
+.first_cake,
+.first_bouquet,
+.first_valentine {
+    position: relative;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.first_cake {
+    background-image: url("https://dsm01pap007files.storage.live.com/y4mgZMXUzn2lBVZK5R3Pi19MICA0exX-fHqllR6Fjic-fzShIypYo9h5tuf-zYfIY6xkotoziSNQ1BHtqmtBb7nqZvB3TsZ8_s7vWvWkR6vB_02kgJYEXMT6mMV96wWXl4qFFBOSKLavuCZfXltuiTVCwVerA-8ftzJ3z6nRWvIvv4OmdGfcfmH8klU0BIipeIy?width=1006&height=1202&cropmode=none");
+}
+
+.first_bouquet {
+    background-image: url("https://dsm01pap007files.storage.live.com/y4mMXkC4QMrNk_nhyvGU-JOGmH794QU6879ZZM0qLTNEGuAYEx3RARIGWuSgzsfQc0bGw1RNbaTPl2EVH3q3H8zHK_zpAXqHQ2PVnqS1jNE5u5WHXjgyGIYP5HtZhLAyCgRkxptKgGQqRTM_NJ2Mb_ldSPDRxKpcphHDeeNCh2Dnv0n3MLQjwzhZmMnnic3RF0X?width=960&height=1280&cropmode=none");
+}
+
+.first_valentine {
+    background-image: url("https://images.unsplash.com/photo-1536251062688-0185b521f349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE4fHx2YWxlbnRpbmV8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60");
+}
+
+.image {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    display: inline-block;
+}
+
+.back {
+    position: fixed;
+    top: 30px;
+    left: 25px;
+}
+
+.text {
+    width: 35%;
+    margin-left: auto;
+    margin-right: 0;
+    padding: 50px 30px 50px 10px;
+    text-align: left;
+}
+
+.title1 {
+    font-size: 2rem;
+}
+
+.title2 {
+    margin: 50px 0px 10px 0px;
+    font-size: 1.5rem;
+}
+
+.text2 {
+    font-size: 0.95rem;
+    font-weight: 300;
+    color: rgb(241, 227, 227);
+}
+
+.second {
+    background-color: rgb(20, 20, 20);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.story_start {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    max-width: 50vw;
+    max-height: 40vh;
+    margin: 225px auto;
+}
+
+.story_image {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    max-width: 45vw;
+    max-height: 40vh;
+    margin: 50px auto;
+}
