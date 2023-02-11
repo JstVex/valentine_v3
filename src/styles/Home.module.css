@@ -3,7 +3,7 @@
   flex-wrap: nowrap;
   gap: 4vmin;
   position: absolute;
-  left: 30%;
+  left: 45%;
   top: 50%;
   transform: translate(0%, -50%);
   user-select: none;
@@ -16,8 +16,14 @@
 }
 
 .image {
-  width: 35vmin;
-  height: 50vmin;
+  /* width: 35vmin;
+  height: 50vmin; */
+  width: 270px;
+  height: 370px;
   object-fit: cover;
   /* object-position: 100% center; */
+}
+
+.co {
+  color: white;
 }
