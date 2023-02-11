@@ -2,10 +2,34 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '@/styles/Home.module.css'
 import Link from 'next/link';
+import { motion } from 'framer-motion';
+// import { useEffect, useState } from 'react';
 
 export default function Home() {
+  // const [coords, setCoords] = useState({ x: 0, y: 0 });
+  // console.log(coords.x)
+  // console.log(coords.y)
 
-  const images = ["https://images.unsplash.com/photo-1612472844996-40238aff6eab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", "https://images.unsplash.com/photo-1626197219310-8be29c1316be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", "https://images.unsplash.com/photo-1622658641558-1bf6a846adeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", "https://images.unsplash.com/photo-1587052755556-89808205c097?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", "https://images.unsplash.com/photo-1444837881208-4d46d5c1f127?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2545&q=80", "https://images.unsplash.com/photo-1549041050-386c1c99d655?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2066&q=80", "https://images.unsplash.com/photo-1538370965046-79c0d6907d47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1738&q=80"];
+  const transition = { duration: 0.5 }
+
+  const images = ["https://images.unsplash.com/photo-1612015888543-a4057b56ac17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHZhbGVudGluZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=2000&q=60", "https://images.unsplash.com/photo-1626197219310-8be29c1316be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", "https://images.unsplash.com/photo-1550676049-420da94eaeee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHJvc2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60", "https://images.unsplash.com/photo-1587052755556-89808205c097?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", "https://images.unsplash.com/photo-1444837881208-4d46d5c1f127?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2545&q=80", "https://images.unsplash.com/photo-1549041050-386c1c99d655?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2066&q=80", "https://images.unsplash.com/photo-1538370965046-79c0d6907d47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1738&q=80"];
+
+  // useEffect(() => {
+  //   const handleWindowMouseMove = event => {
+  //     setCoords({
+  //       x: event.clientX,
+  //       y: event.clientY,
+  //     });
+  //   };
+  //   window.addEventListener('mousemove', handleWindowMouseMove);
+
+  //   return () => {
+  //     window.removeEventListener(
+  //       'mousemove',
+  //       handleWindowMouseMove,
+  //     );
+  //   };
+  // }, []);
 
   return (
     <>
@@ -15,15 +39,14 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {/* <Image
-        className={styles.logo}
-        src="/next.svg"
-        alt="Next.js Logo"
-        width={180}
-        height={37}
-        priority
-      /> */}
-      <div className={styles.image_track}>
+
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={transition}
+        className={styles.image_track}
+      >
 
         <Link href="/valentine">
           <Image
@@ -36,7 +59,12 @@ export default function Home() {
           />
         </Link>
 
-        <Link href="/cake">
+
+        <Link href={{
+          pathname: '/cake',
+          // query: coords
+        }}
+        >
           <Image
             className={styles.image}
             src={images[1]}
@@ -46,6 +74,7 @@ export default function Home() {
             priority
           />
         </Link>
+
 
         <Link href="/bouquet">
           <Image
@@ -102,7 +131,10 @@ export default function Home() {
           />
         </Link>
 
-      </div>
+      </motion.div>
+      {/* <div className={styles.co}>
+        ({coords.x}, {coords.y})
+      </div> */}
     </>
   )
 }
