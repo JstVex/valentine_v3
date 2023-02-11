@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+// import Image from 'next/image'
 import styles from '@/styles/Home.module.css'
 import Link from 'next/link';
 import { motion } from 'framer-motion';
@@ -49,7 +49,7 @@ export default function Home() {
       >
 
         <Link href="/valentine">
-          <Image
+          <img
             className={styles.image}
             src={images[0]}
             alt="Cake"
@@ -65,7 +65,7 @@ export default function Home() {
           // query: coords
         }}
         >
-          <Image
+          <img
             className={styles.image}
             src={images[1]}
             alt="Cake"
@@ -77,7 +77,7 @@ export default function Home() {
 
 
         <Link href="/bouquet">
-          <Image
+          <img
             className={styles.image}
             src={images[2]}
             alt="Cake"
@@ -88,7 +88,7 @@ export default function Home() {
         </Link>
 
         <Link href="/letter">
-          <Image
+          <img
             className={styles.image}
             src={images[3]}
             alt="Cake"
@@ -99,7 +99,7 @@ export default function Home() {
         </Link>
 
         <Link href="/gloomy">
-          <Image
+          <img
             className={styles.image}
             src={images[4]}
             alt="Cake"
@@ -110,7 +110,7 @@ export default function Home() {
         </Link>
 
         <Link href="/future">
-          <Image
+          <img
             className={styles.image}
             src={images[5]}
             alt="Cake"
@@ -121,7 +121,7 @@ export default function Home() {
         </Link>
 
         <Link href="/universe">
-          <Image
+          <img
             className={styles.image}
             src={images[6]}
             alt="Cake"
