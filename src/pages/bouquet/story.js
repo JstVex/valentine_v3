@@ -139,54 +139,75 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <Image
-                    className={styles.story_image}
-                    src="https://dsm01pap007files.storage.live.com/y4mqJ_QlXxFxF8t887pMQsm7tl6udD3PX73mB3aVQtqbyai2TgK-Y4ySv_s65M9hUWT01rxpkVw9Hnk-rO3IARtYY-gSR5c7qtRggr8Fefp8a2YN6iK_gRdJk1StwXR2mAkvIp2GpkKRcXK2ehUV6B_jHZgjGtdvXok3v1-G2I5OW-3TuuYZxfefIdoOC17TDFT?width=2200&height=1500&cropmode=none"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mfjWpPO8-J192Xn9zSKpFx8yQ8-WCj8uwFiXsfYsh1zTfnac_6rNtAvPpNiwjLYb0Q-_J2Cb8PVx0VS5WLwBHqhR7Urxt6JB6bh78ls_JnpwvjrNxZjks06cr9jeMGyIl3KE45fzDmCmE5w-49qdv-urpPtI6YCfwPC0gJ9MRsraWiWzSG1od-dpuR6LpmJLo?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ meo being veri happi with all of ur precious beautiful bouquets &#62;&#60; ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mXd849mnG_n_FQgmBSv6d5P2RTdR_fA4BAb6Ut54nFJKx2MQ6F3j1AGuo3AmR3FFxvdSkKkpYqGhK0kDHCoOFCgrj9yAPOglMTbi0w2nxLIx13bvDwCMXzIyB9pIDFjYd5CDl8AdST2hU-Wptrfq_Doiq5FjF5yIuKkWF5P4x-l3PsZz6IJmSdaXJAkJEP0yt?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ koko to u u lyy on every of our date ^^ ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4muWATV9vVaZhae1etU440Mk8B8MN8YbPWoNntvOWmuWYm9Bs86OjHYY0OrRcawSvkhu18JNu7hDskXCrrQPV7My_O9_iX29iHT6gFFEVf49P44Wn0mAeDJuqynG2_PVcQHhWysAGrZi57o59bxKqt554Cf6cdOaizbLdXa0ddYNo_2HphqKl6IPNoLUuXpmS6?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ us in a field of flowers :3 ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4ms287IL67zVtN1ATaeapvVPUSQ7ssF3FQE6kWCCqBRcJqsszKNZS08EpQpubFWzKKbJDK9S-zolAz17S-UYRbxlNFjTs06a5V2aiyd70RpL37LZiVnlZL-LEdbdyZgh4MBZPm2Vvi-yMAIT8y2J5B1UwGXF5ebvG7wl-48LjOZzp-TELVR__41jyHmXaqGm7M?width=370&height=320&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ meo gibing u u lyy a bouquet ^^ ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4maTSlT13VL6PoLgG3jkC1908Yrc_UznV_OmOiS6gzVG0DEJpe3YxmHLDnXp6Dzyg5Ph_UESGMJNamP6aH6b8Ab5Q6Pkw9jvHPVbDno7-rfcVo1uqVyASzv-PJlpWOd-EfRwhQjWt9RVbaX05mzH-mKmTTcpvhA0pPY4pqBawGt_qqdHv9aHJrC11aH5zHNvjf?width=718&height=958&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ im so sorry for this one babe &#128557; ~
+                    </div>
+                </div>
             </section>
 
         </motion.div>

@@ -140,54 +140,76 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <Image
-                    className={styles.story_image}
-                    src="https://dsm01pap007files.storage.live.com/y4mqJ_QlXxFxF8t887pMQsm7tl6udD3PX73mB3aVQtqbyai2TgK-Y4ySv_s65M9hUWT01rxpkVw9Hnk-rO3IARtYY-gSR5c7qtRggr8Fefp8a2YN6iK_gRdJk1StwXR2mAkvIp2GpkKRcXK2ehUV6B_jHZgjGtdvXok3v1-G2I5OW-3TuuYZxfefIdoOC17TDFT?width=2200&height=1500&cropmode=none"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mbBM_HyMYPhhbPQntSDM1_ORS1s6qq83ptlU6-w11ohIILFScvK91sNgPVHd-KQvDB-jbVi5xEupZx4FbeNjAW4It5KEvccWXdUIYGoeQOUpz_XwZPr_OBWKpI-WjjycqHxwWajwtjTfiAU398eWlXZ-weIL0Vez0Y5mNbkJzO4zvmKUGh1tY1m-Y_OM8b8Rr?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ disgusting shitty gei hhll ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mn_sIDi8JO5_uXXQ4tF97-IYdFvuyToNPUWYplxNbJ7_knq0UZwGvEcp3v64BjlDMCK3gLZ-GVSbuVEZp2Oexe_irUyELdR8MS47ZBgqAUNSldsfG4mkTOCZi5jrUqR5Jy9KeCHBMA_mwfuy6gZcARKBNBlpOL_jJsRqOFdpAHEsrOnCAlq0A8RSp-9J2XgRu?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ gud hhll comes to beat the shit out of the gei hhll ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4miTZvxlIlU6gVjuioagREK-9o_ENFmbZBiPWmOWrSDhtZqNxNNWVbZrBkmx8DKzJKmAgUzWQQ6kfeV5tigehZDw_LQZSkFruyJ1L_lUUhs5Bb5IlKYNQ4WG-lJ9wAvazsXIEZF9isV8nFznkzruIfqUOjutF2gAHajm-EYupKDO_5KaqttvBxdGWEPU3bvwoF?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ pwease forgib me my boo boo:&#40; ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mOwaedI1gQEKINU5vgQieh6IyjVZ7XhpOKKa1BdRsKfhPnYRiqED7IFf_vmhdB0J7UEjnIOdjwhgRALiMmrvyHMCFUN8iR2QUJaIc08dZromg3AP3rHSENGJkGl6ZeBMupN9B6RBGsLMFI8-mMYETeu4hpy3LtYVhr6vNrg8OoFeBfFJdBhb-kZ20P7XOksgq?width=886&height=886&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ pukyuu thrr lyy also here to tell u u lyy to forgib me:&#40; ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4m3HsXOSZ-RdmEWv686Ur8zQnmw9kmC4J7wT7OTGmbGhmn1wEFR9Z7v3rqOyfN9cY1ewG218q2ybXBiCEOldgnISwqWenntl05BSjzTYpo6KpyHTCF_HBJbA4T9_avvoAT3yI6LqU1YhgSZtjTSb32Fki17DFrlfFSb9QSmuIGmPacqktQcvnlaSjzVxS8cT_W?width=2500&height=1500&cropmode=none"
+                        alt="Cake"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ koko never turns gei ever again n love n care for my precious eapm lyy more than ever ^^ ~
+                    </div>
+                </div>
+
             </section>
 
         </motion.div>

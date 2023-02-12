@@ -53,9 +53,9 @@ export default function Home() {
             className={styles.image}
             src={images[0]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
@@ -69,9 +69,9 @@ export default function Home() {
             className={styles.image}
             src={images[1]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
@@ -81,9 +81,9 @@ export default function Home() {
             className={styles.image}
             src={images[2]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
@@ -92,9 +92,9 @@ export default function Home() {
             className={styles.image}
             src={images[3]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
@@ -103,9 +103,9 @@ export default function Home() {
             className={styles.image}
             src={images[4]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
@@ -114,9 +114,9 @@ export default function Home() {
             className={styles.image}
             src={images[5]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
@@ -125,9 +125,9 @@ export default function Home() {
             className={styles.image}
             src={images[6]}
             alt="Cake"
-            width={1000}
-            height={1000}
-            priority
+          // width={1000}
+          // height={1000}
+          // priority
           />
         </Link>
 
