@@ -28,19 +28,19 @@
 }
 
 .first_letter {
-    background-image: url("https://images.unsplash.com/photo-1627618999952-6d9ea355d679?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxldHRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60");
+    background-image: url("https://dsm01pap007files.storage.live.com/y4m6AMEg2_urekoU2Mvj7JCcKV-sJEvACc7fBZ9T_vIk07nN95mgMSOkXESfmqY03l7bvZ_IHIWh2tkWCynmPxHVVGYa1dc5VwxXCykjfbWPoAf2W5OXBMinzhkz4fVbnd--KxkLtUky4g4NVASbGn0dIlp2DfKMgE1lYuXmO9cuOluxlaJ9kSkvRbSFgCwk-sv?width=4032&height=2455&cropmode=none");
 }
 
 .first_gloomy {
-    background-image: url("https://images.unsplash.com/photo-1460355976672-71c3f0a4bdac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMHRpbWV8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60");
+    background-image: url("https://dsm01pap007files.storage.live.com/y4m7LvfszimsomH_2MyGlkyYhSfdvgE07ExaXptH-0qsOXBVh0bkuYBAZXPjj-_aW44EeCcetYL3peLEpVZxuH8MIE2tIle_asIi9cLlcPiH2rVo46-fPyL0cNGBIxdMAswS1bsGRbLgN0V3FTjWH2MHqpmDf_QRzX2fxDXVNlk98ThKRSstA4Zn3engrQdCYbI?width=682&height=343&cropmode=none");
 }
 
 .first_future {
-    background-image: url("https://images.unsplash.com/photo-1603108158810-dbec8a00dae7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG55YyUyMHBlbnRob3VzZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=2000&q=60");
+    background-image: url("https://dsm01pap007files.storage.live.com/y4mcMgihURVzaF6gMVnG_B5qBPwhbhBWGB-zhqAxG3NqzEGoUegp78g75Ia_YFquLPbnCCL9kreTiLwxNP2upgwzwoAAy4MVAshdt38fO0F8lGvtFxTNzj9dmNpbdlm-nY4NPb2kggjMc5pFNP_895xqlMf_UgdGzn4dVo1OTiJSCuuDI3pczQ9wGSSVNeyDq_d?width=1738&height=960&cropmode=none0");
 }
 
 .first_universe {
-    background-image: url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5pdmVyc2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60");
+    background-image: url("https://dsm01pap007files.storage.live.com/y4m09sRURrZBcCNX4GbuIKOCK6kBbb0Hv-nPuzsGh9zPhPxwbtukZvuPIYF4hNqio_rUXWBIWbQzeUaU6fMXCjxHPy3XnNpsdgEhOx7X9OEpw1MUHyGV-Lj4q7ma59EbTR3j-OIigcmOCkU7FNQMRXQalbzYsqnp6aO9vfiUv22fyB49rJZ8Y2BuAHTqW5o7Hwf?width=985&height=570&cropmode=none");
 }
 
 .image {
@@ -131,7 +131,7 @@
     width: 100%;
     height: 100vh;
     object-fit: cover;
-    max-width: 45vw;
+    max-width: 35vw;
     max-height: 40vh;
     margin: 225px auto;
 }
@@ -146,8 +146,16 @@
     width: 100%;
     height: 100vh;
     object-fit: cover;
-    max-width: 45vw;
-    max-height: 40vh;
+    max-width: 50vw;
+    max-height: 45vh;
+}
+
+.story_image2 {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    max-width: 40vw;
+    max-height: 45vh;
 }
 
 .story_text {
@@ -162,4 +170,90 @@
 
 section:last-child div:last-child .story_text {
     margin-bottom: 150px;
+}
+
+@media screen and (max-width: 1150px) {
+    .text {
+        width: 35%;
+        padding: 30px 70px 50px 30px;
+    }
+
+    .title1 {
+        font-size: 2.6rem;
+        transition: all 500ms;
+    }
+
+    .title2 {
+        margin: 30px 0px 10px 0px;
+        font-size: 1.4rem;
+    }
+
+    .text2 {
+        font-size: 1rem;
+    }
+
+    .story_start {
+        max-width: 40vw;
+        max-height: 40vh;
+    }
+
+    .story_image2 {
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+        max-width: 45vw;
+        max-height: 45vh;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .text {
+        width: 40%;
+        padding: 30px 50px 50px 30px;
+    }
+
+    .title1 {
+        font-size: 2.5rem;
+        transition: all 500ms;
+    }
+
+    .title2 {
+        margin: 30px 0px 10px 0px;
+        font-size: 1.3rem;
+    }
+
+    .text2 {
+        font-size: 0.95rem;
+    }
+
+    .down_icon {
+        margin: 40px 0px 15px 0px;
+        font-size: 2.6rem;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .text {
+        width: 45%;
+        padding: 30px 40px 50px 20px;
+    }
+
+    .title1 {
+        font-size: 2.2rem;
+        transition: all 500ms;
+    }
+
+    .title2 {
+        margin: 20px 0px 10px 0px;
+        font-size: 1.2rem;
+    }
+
+    .text2 {
+        font-size: 0.9rem;
+    }
+
+    .down_icon {
+        margin: 30px 0px 10px 0px;
+        font-size: 2.6rem;
+    }
 }

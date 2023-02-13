@@ -129,7 +129,7 @@ export default function Story() {
                         scroll down
                     </motion.div> */}
 
-                    <motion.div
+                    {/* <motion.div
 
                         initial={{
                             opacity: 0
@@ -142,11 +142,11 @@ export default function Story() {
                         transition={{ delay: 1.5, duration: 0.8 }}
                     >
                         <BsArrowDown className={styles.down_icon} />
-                    </motion.div>
+                    </motion.div> */}
 
                 </motion.div>
             </motion.section>
-            <section className={styles.second}>
+            {/* <section className={styles.second}>
                 <Image
                     className={styles.story_start}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
@@ -203,7 +203,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-            </section>
+            </section> */}
 
         </motion.div>
     )

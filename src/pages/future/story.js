@@ -134,8 +134,8 @@ export default function Story() {
             <section className={styles.second}>
                 <Image
                     className={styles.story_start}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
+                    src="https://dsm01pap007files.storage.live.com/y4m2GlVQ8jnL1RJL3eATShcB7nkswdrp7jJsaz1TnoV9kG-jhFG_ycEK7FVuECqk1jqeDC8v0TozMT71fRcGIfSuzhOIyrd9naTiriR4GzPq3Ih_lxa2VyaQmKpeFIOf9iSu-QQh80ytbTQIizopGdhXc7Uu7btddAx6moXrSovmI_wRa1Ar16mpCWGyexjBwtp?width=1478&height=887&cropmode=none"
+                    alt="Our future tgt"
                     width={1000}
                     height={1000}
                     priority
@@ -143,84 +143,84 @@ export default function Story() {
                 <div className={styles.story_wrap}>
                     <Image
                         className={styles.story_image}
-                        src="https://dsm01pap007files.storage.live.com/y4mA3MecwRXCffgkwj_Jc5S2Euz-28vvqLZbNzAsdyOgw3XRKYA2D-pIs8rzZX5ZDW3q6zV1U2ErLKHOReJq_oYsqlpq7VxY_n2Yq3uhMvOZ-u3s90eMVI9CGlwns17aeS4CX2Yr3GBcoqoKJDRijCEaS-seGN0mKyiMEa1VDR4KhkJqGtuhpanTWmir_2hxPW4?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        src="https://dsm01pap007files.storage.live.com/y4mAEiNlftOuNdDfxbtzCxlZfms3reqEnWqeAntvWW7sp19aVhhbjSqx-bPIYoxxYuSAYWNfcsEHoe-xJwwDiHdQqaqyGOnAMIjYZbbCCj-XwhqPKKFEeGUN-mdzcfBxlMEnJU8iWHTes0DfdADIrlDfrRFj8eo4rxLWLRK3-VZc6qnfjLv6L_WrSSWg5F823N2?width=2500&height=1500&cropmode=none"
+                        alt="Going to la"
                         width={1000}
                         height={1000}
                         priority
                     />
                     <div className={styles.story_text}>
-                        ~ ur chef bf thinking he is capable of baking cakes ~
+                        ~ us about to fly tgt to la &#62;&#60; ~
                     </div>
                 </div>
 
                 <div className={styles.story_wrap}>
                     <Image
                         className={styles.story_image}
-                        src="https://dsm01pap007files.storage.live.com/y4mWEGeoR2H2au75LEjsWRm-2hUaj05Y-JxUNpSD6nFvuTWV0jgKbubfw58VEho32iwEWRGfJ_f6ecvTxb0FCp8hZQngzqcVQmgkFwl2Clhd48mUX3gnpPB59Y-1SKa2NvEixc_3YU_7327BP1f_b8CaJmKmfh3YTaCvJ-EheEYQ74BPVhxqxQTDFu8FCpq_hwE?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        src="https://dsm01pap007files.storage.live.com/y4mLJTJaLplL7R1MsSZYCnqMucoSXfgf-K40sYQ9hFk5h4wY90BDZVL7fJ0BHKXCrCkWYE7fUcQsNadBr8c8SxhVmKyHxpKV0IL9KII6wLe0nekwHQGG5381uhQWYA1oDRG2bcaftxGMOEfGYA6s8yQM3Vm2ABnLvTcTxy7P8itoNZYgQJZc8RX6PlVpiNewTws?width=2500&height=1500&cropmode=none"
+                        alt="Attenting college tgt"
                         width={1000}
                         height={1000}
                         priority
                     />
                     <div className={styles.story_text}>
-                        ~ struggling to find the best n suitable recipe ~
+                        ~ koko doh attending pasadena city college tgt :3 ~
                     </div>
                 </div>
 
                 <div className={styles.story_wrap}>
                     <Image
                         className={styles.story_image}
-                        src="https://dsm01pap007files.storage.live.com/y4mLgRAwFiuBpz60vr35gFstMTg9148HBsWwf0CjUAA1CXEFrniPln8hxlzjrZf35gw5b4xB2-2nvsz8b_w4pYWrx_hCSPqizSDWwzTqABGh4yx3MRlQ8G-iLnlbLhtwUOfY1i2AOBOfMiRusTt9U0U8i3hSiEQV6-8-RIS22fXl79XiEuTSrbzFa5oeCjZdfOM?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        src="https://dsm01pap007files.storage.live.com/y4msdzWPpQMZhoHzux4hucBRI7ks2x4wYVsiLoer5FL16CJQ2bz5ObSZshii_RQA4aPi6UCqIpFzFvTswZnZUdL2O7OQ4Mn1eD22LfGGA9yka7PX2bT8qkEP_5ETCPsHhYLdSvoTP-7yYqbLgRH1woNpRo707k8YmDLihUuT0hcfJjPK04rGEW55jgtg5_fJigi?width=2500&height=1500&cropmode=none"
+                        alt="Making our ideas come true"
                         width={1000}
                         height={1000}
                         priority
                     />
                     <div className={styles.story_text}>
-                        ~ going with cheesecake cuz thats all im able to:&#40; ~
+                        ~ us making all our plans n ideas come true ^^ ~
                     </div>
                 </div>
 
                 <div className={styles.story_wrap}>
                     <Image
                         className={styles.story_image}
-                        src="https://dsm01pap007files.storage.live.com/y4mfQUlWjq-qubj9-hWs1LD98tgWhGDU7Cp44nchDNk7uAfLuncU--W_aolkh1bSg-ER24ahb4bjmjeod6OOGYjy41MUCju71oHfxlITLc6KGOFkmArS9wlntjoAxGeVAJSM1EVurX1v5dmryJ7QfBzUpEYu6JQlz10aTNtzQskKXkBZ0QkpLNmMqmad-NRmX8W?width=2500&height=1500&cropmode=none"
+                        src="https://dsm01pap007files.storage.live.com/y4m_ucTiGgQyk8i6H6QKVQ37o285njiNlXNDJ-xZ-DT313IZ0bEZLqpNkgbe5jDC9ampATrs3OHnXHvQaGnNaUX5_TjlMBFyistZFZVuof5Qdjy2oAgfZXgtQdddWLWcmIDhOsuulvXbL_DYew5sMxCwpo17J-iPqoBmrS3BN1YOEgkO019T9pQ_MXCQizCIug7?width=2500&height=1500&cropmode=none"
                         alt="Cake"
                         width={1000}
                         height={1000}
                         priority
                     />
                     <div className={styles.story_text}>
-                        ~ whisking cheesecake &#62;&#62;&#62;&#62;&#62;&#62;&#62; hitting gym ~
+                        ~ us graduating from a prestigious uni tgt ^^ ~
                     </div>
                 </div>
 
                 <div className={styles.story_wrap}>
                     <Image
                         className={styles.story_image}
-                        src="https://dsm01pap007files.storage.live.com/y4mtnkIBvCJ_PeGIbH1J332fUNBohkKseeQUAaV9maz0Wzc5GdXC01pdma8QlZ4WH8K-GktrajKJEPL6iRmAtUJFJ8EXRAydHHelTT6Tit4dy6Ts45kqT5ytrtgozLFsN64Soz5ZT0g0duviO9XYrz6Mpb7qn-YR4mKv6eTUK8Nx4wg4mqokPgInPxqCuuH1xbg?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        src="https://dsm01pap007files.storage.live.com/y4moi8FSAeS2ldI1an-DXnMvA2QXQX1GOhuHeSLIE_Vr66F3mYA69S-YyGoTPeotauPGYVRDsh34BgdJiHFRqdCdc16xPCJaS9smJXgw6peOOKns8ynqtR6L2RteYWCWEndFtmup4hPUADkkGT0lAvWqPF4fAptD4X3QElCNZVUi_jK8i-WqcCRONlpwiaokWoz?width=2500&height=1500&cropmode=none"
+                        alt="Dream jobs and dream lyfes"
                         width={1000}
                         height={1000}
                         priority
                     />
                     <div className={styles.story_text}>
-                        ~ most nervous-able time to see how it turns out ~
+                        ~ us with our dream jobs n living in our own apartment in NYC :33 ~
                     </div>
                 </div>
 
                 <div className={styles.story_wrap}>
                     <Image
-                        className={styles.story_image}
-                        src="https://dsm01pap007files.storage.live.com/y4mUL6XFa1kJvsGesuROz54r35qRNa4dw8VCA_AtiU1634DMaCXA0-1y1OhShyii_-GCRkh8x6vrhgXK1gb2tKtPQVgDlCC6jyXUnVOFl0Z_lAyVi6agTfm5ed-I9EfbEEwSWKlF7qpcKz3Q7C7l4Qg8heem0adbrPBD_NytpEum_HxlkubJDvwebWsG7gk4hON?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        className={styles.story_image2}
+                        src="https://dsm01pap007files.storage.live.com/y4mXhVO9z1DdDWLoXMfO8CGpWUxAoggYn92JxIuJYK2XqIxojc8bXpo5Hkyt-0tRCAPEu8WEjZRIfdjofRvdb9EuuwPrmly8zivTRJMPIPDCiPmpmBN1kn4rGxY3S89kdjQaxdRVuTfCaXTHDV7H99WIaxB4ZX0hlZkbCfKQCg_K88XM_2qQnkAaJiRQbYi-8pu?width=2500&height=1500&cropmode=none"
+                        alt="Us in the netherlands with our precious kids"
                         width={1000}
                         height={1000}
                         priority
                     />
                     <div className={styles.story_text}>
-                        ~ cheesecake for my precious eapm lyy &#62;&#60; its simple but hope u like it ^^ ~
+                        ~ us n our precious kids living in our dream house designed by u u lyy in the netherlands :333 ~
                     </div>
                 </div>
             </section>

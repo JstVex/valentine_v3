@@ -134,60 +134,109 @@ export default function Story() {
             <section className={styles.second}>
                 <Image
                     className={styles.story_start}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
+                    src="https://dsm01pap007files.storage.live.com/y4mWaM7YQEXRaA0o2JP4sozgP7lDDtsqVH6iSOHJJgwhylUHmShO8ZtO-zQ5Fk50sm4b0ViB-dSMwRgYzKB1i-41bk5nzzlwW0Bm2PxpWbvvlxppGa4jkNKw1nin0oMPSq8YLuzqwXbfu3usWggWGQNHRIz41wzMnNrLrllkcpZ6PUduTKb22fQawYHufCDgBk3?width=1478&height=887&cropmode=none"
+                    alt="A story about two stars"
                     width={1000}
                     height={1000}
                     priority
                 />
-                <Image
-                    className={styles.story_image}
-                    src="https://dsm01pap007files.storage.live.com/y4mqJ_QlXxFxF8t887pMQsm7tl6udD3PX73mB3aVQtqbyai2TgK-Y4ySv_s65M9hUWT01rxpkVw9Hnk-rO3IARtYY-gSR5c7qtRggr8Fefp8a2YN6iK_gRdJk1StwXR2mAkvIp2GpkKRcXK2ehUV6B_jHZgjGtdvXok3v1-G2I5OW-3TuuYZxfefIdoOC17TDFT?width=2200&height=1500&cropmode=none"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
-                <Image
-                    className={styles.story_image}
-                    src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                />
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mZm_DXmkxeYY3jYpZrsn-uQRJTyHF1NsktFQCrIGoKrE99--Ky9hKDHUOnRcXTY4Vci2-kIO_WvdGXFFZzrpTEw0037qhNqYFEcRIUEJu6u5pBmwG2E_yo0DP5sPySISvBZTpEvJp7YjWkowkjwEedOetumJ3eOBU3o3_om0-BTi_cYlmyKNDr8q-btp7lnNP?width=1024&height=576&cropmode=none"
+                        alt="The big bang"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ the universe goes bang bang ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mhDjqi33_H8tM82HnIxgXwpx1thb1bJX1L7YveMnZ5bw7TRIRxsZ-lI_MqWbDQoCsZMUOhfk-TWhA57A7NMDVrLSZN1ue0i07MTRJWnaNO8niG6PLHUBJrbnEQ0PCq16CBIZGkC0AlJbK916NnOzH3IS70CgHc-UQVApaDPErXNhNOEJ23BFQtKbjNIhroVuu?width=2500&height=1500&cropmode=none"
+                        alt="Stars forming"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ countless stars n celestial bodies appear everywhere ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4muC7Gaw9VujAqs-cdIWC8ZtTe9HNfSTrumY1WAce_tIQKfc7CD1G1GSllJwkUuIsTfDiNifSRbZErq3lbhxd6y1Byp2aSqPW_vjjwsRK_rBgHYOyNH5e6l2vTda9RZqD6PE__TDKk5YOLGs7sPDqT8_pBmEQZ_78ILpiH3vRoS5yI82B31XY0q62zr2VRdXyV?width=2500&height=1500&cropmode=none"
+                        alt="Us meeting ><"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ two beautiful unique stars met at one time &#40; guess who they r ^^ &#41; ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4m1WDGkp1tayEVp6eNbZoWvma48hW8QyAOmhHcmbnCIMYRxFB-RBCLNlSFk66wjfRM5hDxy598NG19S1omlzkI-jCcOn3Z5gMyclWSPLA_CV3GJhiaMugbPHm86Fpc9Nr7w82EfRqDt_MQY7lpFsTPb8G0QzBysDiytpsChMiNvIs8b5SntNuoXhlNqNofiBhj?width=2500&height=1500&cropmode=none"
+                        alt="Us combining tgt"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ they combined n started creating the most beautiful thing ever &#62;&#60; ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mWE7XkzxjuF9yK3Gc_xcznQUpvTJiugJuBJZeAJ3da8R022_XGQE3mOLhWZIXKb5d2nc_9MrrEp0bd-w8PLndaRbxr9nmJE1pvN1CUYAoGSE-ByDToPsNLtDaOl8fQ5-fl6dFX3pB1kEvVk7Gx1A4KyZgSNGs2ZBeWjZeUzVo7uQo3lAiZXJCY2xsxjE0DDz4?width=2500&height=1500&cropmode=none"
+                        alt="Our love is formed ^^"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ The most beautiful, the biggest, the brightest thing ever is formed ^^  ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mf_TOajadhZmhTvBiuy1s21ozBXzpKZb6POAgCd1JVI37w7QHKErXFiVxPcgd4b7gxsUNJ-A61G-tedMl8zNsYXslTi9Z8ivbTXp7A0IG5BEY6gtO5DKLJcsWuY-1KLIG1qH62mqLMVc5kuGbENQjStQ7KpPCC1cMefPC0Vp81dAS3bV08dcQRCEj36PvEjXf?width=2500&height=1500&cropmode=none"
+                        alt="Our love :3"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ yes ure right my boo boo it is indeed our love :33 ~
+                    </div>
+                </div>
+
+                <div className={styles.story_wrap}>
+                    <Image
+                        className={styles.story_image}
+                        src="https://dsm01pap007files.storage.live.com/y4mdZugkhq5sUmEXgDuyfeKG7Nrvo_tZP2KElaxxNjBwOHNhrhrMssG8MizlR5rjDtJwixQOMruBgnhonqF2w-P6ORYTp1HC8gNoD73SynKn2TBR47Odr0nwuLo8Chzs__Fjd04_XkJdPDW0N2kxe2_GGemHAXDJLzpI5btMcgGWg2gpt0BqkHbtZUwqM0lAA8R?width=2500&height=1500&cropmode=none"
+                        alt="Happy valentine's day again baby boo boo lyy yy UwU"
+                        width={1000}
+                        height={1000}
+                        priority
+                    />
+                    <div className={styles.story_text}>
+                        ~ hope u like it n hope this makes u special my precious valentine lyy :333 ~
+                    </div>
+                </div>
             </section>
 
         </motion.div>

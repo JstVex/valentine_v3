@@ -58,7 +58,7 @@ export default function Story() {
                         transition={{ delay: 1, duration: 0.8 }}
                         className={styles.title1}
                     >
-                        Making a cake for u
+                        Making our love
                     </motion.div>
                     <div className={styles.wrap}>
                         <motion.div
@@ -149,7 +149,7 @@ export default function Story() {
                             transition={{ delay: 1.6, duration: 0.8 }}
                             className={styles.text2}
                         >
-                            The most loving, understanding, romantic, special, matching couple in this entire world.
+                            The most loving, understanding, romantic, special, matching couple in this entire world ^^.
                         </motion.div>
                     </div>
 

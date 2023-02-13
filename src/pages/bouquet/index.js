@@ -22,7 +22,7 @@ export default function Bouquet() {
                     animate={{ width: '100vw', height: '100vh', transition: { duration: 1.3 } }}
 
                     className={styles.image}
-                    src="https://images.unsplash.com/photo-1550676049-420da94eaeee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHJvc2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
+                    src="https://images.unsplash.com/photo-1444394668777-6fa6de8b8356?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUzfHxyb3NlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=1800&q=60"
                     alt="Flowers"
                 />
             </motion.div>
@@ -33,7 +33,7 @@ export default function Bouquet() {
                     animate={{ opacity: 1, transition: { delay: 1.5, duration: 0.8 } }}
                     className={styles.text}
                 >
-                    Roses and the scent of our love
+                    Roses and the essence of our love
                 </motion.div>
             </Link>
 
