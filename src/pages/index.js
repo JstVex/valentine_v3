@@ -1,9 +1,12 @@
 import Head from 'next/head'
 // import Image from 'next/image'
-import styles from '@/styles/Home.module.css'
-import Link from 'next/link';
-import { motion } from 'framer-motion';
+// import styles from '@/styles/Home.module.css'
+// import Link from 'next/link';
+// import { motion } from 'framer-motion';
+import dynamic from 'next/dynamic';
 // import { useEffect, useState } from 'react';
+
+const DynamicComponent = dynamic(() => import('../../components/IndexScreen'))
 
 export default function Home() {
   // const [coords, setCoords] = useState({ x: 0, y: 0 });
@@ -40,7 +43,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <motion.div
+      <DynamicComponent />
+
+      {/* <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
@@ -131,7 +136,7 @@ export default function Home() {
           />
         </Link>
 
-      </motion.div>
+      </motion.div> */}
       {/* <div className={styles.co}>
         ({coords.x}, {coords.y})
       </div> */}
