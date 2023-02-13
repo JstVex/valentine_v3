@@ -33,7 +33,7 @@ export default function Gloomy() {
                     animate={{ opacity: 1, transition: { delay: 1.5, duration: 0.8 } }}
                     className={styles.text}
                 >
-                    Mistakes of the past
+                    Geiness and mistakes
                 </motion.div>
             </Link>
 
