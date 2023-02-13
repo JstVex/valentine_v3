@@ -7,6 +7,7 @@ import { BsArrowDown } from "react-icons/bs"
 export default function Story() {
     return (
         <motion.div
+            className={styles.parent}
             initial={{
                 opacity: 0,
             }}
