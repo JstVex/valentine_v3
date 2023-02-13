@@ -132,7 +132,7 @@ export default function Story() {
                 </motion.div>
             </motion.section>
             <section className={styles.second}>
-                <Image
+                <img
                     className={styles.story_start}
                     src="https://dsm01pap007files.storage.live.com/y4mQCbNd-FaP9Y9vULsN21cTsEUrIsrIs00VNHuV926-pSCPZvxJcGZ2mzxteI2XkeAw6OoWkkyr1diOVpKyUP92U1rYbXQd_OiMDeegpTZSiYjLLyjYMd6WHNvubkwzemHy5x5GD3flGG4h7D-5MEJVl6QVDi_Ceufn27NlquhHTRNzfBxq4DZxztwsfHNtV8A?width=1478&height=887&cropmode=none"
                     alt="Words and stuff"
@@ -141,7 +141,7 @@ export default function Story() {
                     priority
                 />
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4ms26RoRkpNoQoi0OZZn-EuSo_fxC1usAsC1rMNQrgBGC1AD4xcAbPsKNVKsM6yZaeyYwLA8YdR05pZx2tWqWk9J1-uzjKzJHJAmyMxsUy2jl1iRTn6052uaaFMlBFDxOe2OLbK_UL34fDx3K2z_3F0w0FmLvejT0jBPvL47r1_nZRCYKe-x1YyVSegCLRBCDt?width=2500&height=1500&cropmode=none"
                         alt="Koko so in love with ur precious letters"
@@ -155,7 +155,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mTlY2-mJJcfGXNzKFFCrtzTM4gNVyiSHfPHJA-hCFtE1Ee-3dEnP-s_ZHS1EQNqbjGSQFHUfHwIPk8cZLqCZdvS6FckWB1R-yDbm0J2OugEKfdvPnSX1ekzIl1KTVsucWg1yaVo1a91jhlS8KtPmmJU-ZajyGcpioIkhtyqWpPnSJURdvR6ufejpc7zdHSjgZ?width=2500&height=1500&cropmode=none"
                         alt="meo making a letter"
@@ -169,7 +169,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mGFKjelpiSt0cOVwMe1Py0Zn47PXiUofKE4xl2unxJha1DUYelYoQTQVd_niu2s5eCN6k0LXJWXhs0bBezg0gHld671_UbiPFyQfx4448XOWmZK5Cf-HwENcRnX2CXcJdBpG0XTzCtPiUjZXCBIKDiwr9rJgDdg3ih3elYNRNPvBMDR_RYwkTxYUV8XPTVApS?width=2500&height=1500&cropmode=none"
                         alt="u enjoying my letter ^^"
@@ -183,7 +183,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4moM5CD4z0Kg937Jj1Cy1dz2xh5JTybC8axoKmwlI7y7pv5yaTXwQxoo2nH92GumxQu3OpeX4JUoL4goli_fk6iI7tcQv0gayNZ3hPHzxz3WbxMtiu1cu75Hj_EpiTaeS1r0qAN6WqbYKVlGA1S_DDcYNvOT8fMTJbF-ev5wS4vKowgbwhkaPswrXWKH25Hh-H?width=2500&height=1500&cropmode=none"
                         alt="Wishing for u ^^"
@@ -197,7 +197,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mplh1ziCQl88JVl3R_lTuajr5Zx8k8feS3oqS79jnaoleacs2-WQTv--YsCX1G3gH1U_O9qlUktI_QvNVedLcrmDOnSvmykwa7xrls7eJ1u6Hjr0PJbMtwLI3up1BLBV5UxiPTjs9J8NHQG_hOAbq8DWqu9jX8TAy-P6CvkeAJK7BUmwVzt5Q8V68B0sMReWR?width=1501&height=1277&cropmode=none"
                         alt="Ur precious drawing lyy ><"

@@ -132,7 +132,7 @@ export default function Story() {
                 </motion.div>
             </motion.section>
             <section className={styles.second}>
-                <Image
+                <img
                     className={styles.story_start}
                     src="https://dsm01pap007files.storage.live.com/y4m2GlVQ8jnL1RJL3eATShcB7nkswdrp7jJsaz1TnoV9kG-jhFG_ycEK7FVuECqk1jqeDC8v0TozMT71fRcGIfSuzhOIyrd9naTiriR4GzPq3Ih_lxa2VyaQmKpeFIOf9iSu-QQh80ytbTQIizopGdhXc7Uu7btddAx6moXrSovmI_wRa1Ar16mpCWGyexjBwtp?width=1478&height=887&cropmode=none"
                     alt="Our future tgt"
@@ -141,7 +141,7 @@ export default function Story() {
                     priority
                 />
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mAEiNlftOuNdDfxbtzCxlZfms3reqEnWqeAntvWW7sp19aVhhbjSqx-bPIYoxxYuSAYWNfcsEHoe-xJwwDiHdQqaqyGOnAMIjYZbbCCj-XwhqPKKFEeGUN-mdzcfBxlMEnJU8iWHTes0DfdADIrlDfrRFj8eo4rxLWLRK3-VZc6qnfjLv6L_WrSSWg5F823N2?width=2500&height=1500&cropmode=none"
                         alt="Going to la"
@@ -155,7 +155,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mLJTJaLplL7R1MsSZYCnqMucoSXfgf-K40sYQ9hFk5h4wY90BDZVL7fJ0BHKXCrCkWYE7fUcQsNadBr8c8SxhVmKyHxpKV0IL9KII6wLe0nekwHQGG5381uhQWYA1oDRG2bcaftxGMOEfGYA6s8yQM3Vm2ABnLvTcTxy7P8itoNZYgQJZc8RX6PlVpiNewTws?width=2500&height=1500&cropmode=none"
                         alt="Attenting college tgt"
@@ -169,7 +169,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4msdzWPpQMZhoHzux4hucBRI7ks2x4wYVsiLoer5FL16CJQ2bz5ObSZshii_RQA4aPi6UCqIpFzFvTswZnZUdL2O7OQ4Mn1eD22LfGGA9yka7PX2bT8qkEP_5ETCPsHhYLdSvoTP-7yYqbLgRH1woNpRo707k8YmDLihUuT0hcfJjPK04rGEW55jgtg5_fJigi?width=2500&height=1500&cropmode=none"
                         alt="Making our ideas come true"
@@ -183,7 +183,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4m_ucTiGgQyk8i6H6QKVQ37o285njiNlXNDJ-xZ-DT313IZ0bEZLqpNkgbe5jDC9ampATrs3OHnXHvQaGnNaUX5_TjlMBFyistZFZVuof5Qdjy2oAgfZXgtQdddWLWcmIDhOsuulvXbL_DYew5sMxCwpo17J-iPqoBmrS3BN1YOEgkO019T9pQ_MXCQizCIug7?width=2500&height=1500&cropmode=none"
                         alt="Cake"
@@ -197,7 +197,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4moi8FSAeS2ldI1an-DXnMvA2QXQX1GOhuHeSLIE_Vr66F3mYA69S-YyGoTPeotauPGYVRDsh34BgdJiHFRqdCdc16xPCJaS9smJXgw6peOOKns8ynqtR6L2RteYWCWEndFtmup4hPUADkkGT0lAvWqPF4fAptD4X3QElCNZVUi_jK8i-WqcCRONlpwiaokWoz?width=2500&height=1500&cropmode=none"
                         alt="Dream jobs and dream lyfes"
@@ -211,7 +211,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <Image
+                    <img
                         className={styles.story_image2}
                         src="https://dsm01pap007files.storage.live.com/y4mXhVO9z1DdDWLoXMfO8CGpWUxAoggYn92JxIuJYK2XqIxojc8bXpo5Hkyt-0tRCAPEu8WEjZRIfdjofRvdb9EuuwPrmly8zivTRJMPIPDCiPmpmBN1kn4rGxY3S89kdjQaxdRVuTfCaXTHDV7H99WIaxB4ZX0hlZkbCfKQCg_K88XM_2qQnkAaJiRQbYi-8pu?width=2500&height=1500&cropmode=none"
                         alt="Us in the netherlands with our precious kids"
