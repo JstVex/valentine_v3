@@ -9,6 +9,7 @@
   user-select: none;
   overflow-x: auto;
   padding-right: 300px;
+  overflow-y: hidden;
 }
 
 .image_track::-webkit-scrollbar {
