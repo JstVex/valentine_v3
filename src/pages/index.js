@@ -6,7 +6,7 @@ import Head from 'next/head'
 import dynamic from 'next/dynamic';
 // import { useEffect, useState } from 'react';
 
-const DynamicComponent = dynamic(() => import('../../components/IndexScreen'))
+const DynamicHome = dynamic(() => import('../../components/IndexScreen'))
 
 export default function Home() {
   // const [coords, setCoords] = useState({ x: 0, y: 0 });
@@ -43,7 +43,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <DynamicComponent />
+      <DynamicHome />
 
       {/* <motion.div
         initial={{ opacity: 0 }}
