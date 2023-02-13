@@ -186,7 +186,7 @@ const StoryFuture = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4m_ucTiGgQyk8i6H6QKVQ37o285njiNlXNDJ-xZ-DT313IZ0bEZLqpNkgbe5jDC9ampATrs3OHnXHvQaGnNaUX5_TjlMBFyistZFZVuof5Qdjy2oAgfZXgtQdddWLWcmIDhOsuulvXbL_DYew5sMxCwpo17J-iPqoBmrS3BN1YOEgkO019T9pQ_MXCQizCIug7?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Us graduating ^^"
                         width={1000}
                         height={1000}
                         priority

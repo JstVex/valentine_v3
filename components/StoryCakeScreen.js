@@ -36,14 +36,7 @@ const StoryCake = () => {
                         Back
                     </motion.div>
                 </Link>
-                {/* <Image
-                    className={styles.image}
-                    src="https://dsm01pap007files.storage.live.com/y4m7YBS3wn0lDqixDUcMbKteME5QEq6mw8E4esSI3AHltht4ln2FTI4RNjX0sHakg1iCdqkLrxosf9SPwTGAyIsg_vAxqnYmu1LMVQGpzbO4yaW11yPYhga5kkas5ANey9GGDrupy7hQhRMf_PHoFS_40RIpisywp6X2pC7WEzD5ytA1n-0PBaxfk2GfXEuWzIi?width=960&height=1280&cropmode=none"
-                    alt="Cake"
-                    width={1000}
-                    height={1000}
-                    priority
-                /> */}
+
                 <motion.div
                     className={styles.text}
                 >
@@ -174,7 +167,7 @@ const StoryCake = () => {
                 <Image
                     className={styles.story_start}
                     src="https://dsm01pap007files.storage.live.com/y4m2-wSto1axMksIKjly5qOI_wqfyTxr1cjyY9STzpCAkT0bx4Urua-5yl2b2XFDSiNtXCBB05xt07tKO6wWn11CaB-JMioqbq6w2Ys-Lj9Wym2ciF3_9GPzqM5hzgKvNxJzqCO3Ew7ChIFCJhpaLWaRizpb73dnFkGm3h9rn0ZGJW2W_zLzakkMz4hmwl9lM76?width=1522&height=913&cropmode=none"
-                    alt="Cake"
+                    alt="Cake for u ^^"
                     width={1000}
                     height={1000}
                     priority
@@ -183,7 +176,7 @@ const StoryCake = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mA3MecwRXCffgkwj_Jc5S2Euz-28vvqLZbNzAsdyOgw3XRKYA2D-pIs8rzZX5ZDW3q6zV1U2ErLKHOReJq_oYsqlpq7VxY_n2Yq3uhMvOZ-u3s90eMVI9CGlwns17aeS4CX2Yr3GBcoqoKJDRijCEaS-seGN0mKyiMEa1VDR4KhkJqGtuhpanTWmir_2hxPW4?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Lulu's bakery"
                         width={1000}
                         height={1000}
                         priority
@@ -197,7 +190,7 @@ const StoryCake = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mWEGeoR2H2au75LEjsWRm-2hUaj05Y-JxUNpSD6nFvuTWV0jgKbubfw58VEho32iwEWRGfJ_f6ecvTxb0FCp8hZQngzqcVQmgkFwl2Clhd48mUX3gnpPB59Y-1SKa2NvEixc_3YU_7327BP1f_b8CaJmKmfh3YTaCvJ-EheEYQ74BPVhxqxQTDFu8FCpq_hwE?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Finding recipes"
                         width={1000}
                         height={1000}
                         priority
@@ -211,7 +204,7 @@ const StoryCake = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mLgRAwFiuBpz60vr35gFstMTg9148HBsWwf0CjUAA1CXEFrniPln8hxlzjrZf35gw5b4xB2-2nvsz8b_w4pYWrx_hCSPqizSDWwzTqABGh4yx3MRlQ8G-iLnlbLhtwUOfY1i2AOBOfMiRusTt9U0U8i3hSiEQV6-8-RIS22fXl79XiEuTSrbzFa5oeCjZdfOM?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Getting ingredients"
                         width={1000}
                         height={1000}
                         priority
@@ -225,7 +218,7 @@ const StoryCake = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mfQUlWjq-qubj9-hWs1LD98tgWhGDU7Cp44nchDNk7uAfLuncU--W_aolkh1bSg-ER24ahb4bjmjeod6OOGYjy41MUCju71oHfxlITLc6KGOFkmArS9wlntjoAxGeVAJSM1EVurX1v5dmryJ7QfBzUpEYu6JQlz10aTNtzQskKXkBZ0QkpLNmMqmad-NRmX8W?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Whisk whisk"
                         width={1000}
                         height={1000}
                         priority
@@ -239,7 +232,7 @@ const StoryCake = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mtnkIBvCJ_PeGIbH1J332fUNBohkKseeQUAaV9maz0Wzc5GdXC01pdma8QlZ4WH8K-GktrajKJEPL6iRmAtUJFJ8EXRAydHHelTT6Tit4dy6Ts45kqT5ytrtgozLFsN64Soz5ZT0g0duviO9XYrz6Mpb7qn-YR4mKv6eTUK8Nx4wg4mqokPgInPxqCuuH1xbg?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Baking"
                         width={1000}
                         height={1000}
                         priority
@@ -253,7 +246,7 @@ const StoryCake = () => {
                     <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mUL6XFa1kJvsGesuROz54r35qRNa4dw8VCA_AtiU1634DMaCXA0-1y1OhShyii_-GCRkh8x6vrhgXK1gb2tKtPQVgDlCC6jyXUnVOFl0Z_lAyVi6agTfm5ed-I9EfbEEwSWKlF7qpcKz3Q7C7l4Qg8heem0adbrPBD_NytpEum_HxlkubJDvwebWsG7gk4hON?width=2500&height=1500&cropmode=none"
-                        alt="Cake"
+                        alt="Result ^^"
                         width={1000}
                         height={1000}
                         priority

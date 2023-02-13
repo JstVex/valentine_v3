@@ -21,26 +21,17 @@ const IndecScreen = () => {
                 <img
                     className={styles.image}
                     src={images[0]}
-                    alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
+                    alt="Valentine"
                 />
             </Link>
 
 
-            <Link href={{
-                pathname: '/cake',
-                // query: coords
-            }}
+            <Link href="/cake"
             >
                 <img
                     className={styles.image}
                     src={images[1]}
                     alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
                 />
             </Link>
 
@@ -49,10 +40,7 @@ const IndecScreen = () => {
                 <img
                     className={styles.image}
                     src={images[2]}
-                    alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
+                    alt="Bouquet"
                 />
             </Link>
 
@@ -60,10 +48,7 @@ const IndecScreen = () => {
                 <img
                     className={styles.image}
                     src={images[3]}
-                    alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
+                    alt="Letter"
                 />
             </Link>
 
@@ -71,10 +56,7 @@ const IndecScreen = () => {
                 <img
                     className={styles.image}
                     src={images[4]}
-                    alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
+                    alt="Gloomy"
                 />
             </Link>
 
@@ -82,10 +64,7 @@ const IndecScreen = () => {
                 <img
                     className={styles.image}
                     src={images[5]}
-                    alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
+                    alt="Future"
                 />
             </Link>
 
@@ -93,10 +72,7 @@ const IndecScreen = () => {
                 <img
                     className={styles.image}
                     src={images[6]}
-                    alt="Cake"
-                // width={1000}
-                // height={1000}
-                // priority
+                    alt="Universe"
                 />
             </Link>
 
