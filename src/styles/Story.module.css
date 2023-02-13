@@ -1,5 +1,6 @@
 .parent {
     width: 100%;
+    overflow-x: hidden;
 }
 
 .first_cake,
