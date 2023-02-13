@@ -147,7 +147,7 @@ export default function Story() {
                 </motion.div>
             </motion.section>
             {/* <section className={styles.second}>
-                <img
+                <Image
                     className={styles.story_start}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
                     alt="Cake"
@@ -155,7 +155,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <img
+                <Image
                     className={styles.story_image}
                     src="https://dsm01pap007files.storage.live.com/y4mqJ_QlXxFxF8t887pMQsm7tl6udD3PX73mB3aVQtqbyai2TgK-Y4ySv_s65M9hUWT01rxpkVw9Hnk-rO3IARtYY-gSR5c7qtRggr8Fefp8a2YN6iK_gRdJk1StwXR2mAkvIp2GpkKRcXK2ehUV6B_jHZgjGtdvXok3v1-G2I5OW-3TuuYZxfefIdoOC17TDFT?width=2200&height=1500&cropmode=none"
                     alt="Cake"
@@ -163,7 +163,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <img
+                <Image
                     className={styles.story_image}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
                     alt="Cake"
@@ -171,7 +171,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <img
+                <Image
                     className={styles.story_image}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
                     alt="Cake"
@@ -179,7 +179,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <img
+                <Image
                     className={styles.story_image}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
                     alt="Cake"
@@ -187,7 +187,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <img
+                <Image
                     className={styles.story_image}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
                     alt="Cake"
@@ -195,7 +195,7 @@ export default function Story() {
                     height={1000}
                     priority
                 />
-                <img
+                <Image
                     className={styles.story_image}
                     src="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
                     alt="Cake"

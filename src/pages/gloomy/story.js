@@ -132,7 +132,7 @@ export default function Story() {
                 </motion.div>
             </motion.section>
             <section className={styles.second}>
-                <img
+                <Image
                     className={styles.story_start}
                     src="https://dsm01pap007files.storage.live.com/y4m5Wq2XYcfYcPJRNNYIJjwu2Gbc1Z23PnvGDxlbxilsurOSwaC9zCCxFcPs97GMep0I_ml3s4qtAuuh4DD2kMke2N2r-UYgA5sG1_vU1BKMN4a-6eme5a4MGrj4v_cFBmIRsLVX0H91XdsVJpIBKNNdlJxxhEqKKwd57cr-PGbo32AERgpqeVw_ogdqrXMzOwN?width=1478&height=887&cropmode=none"
                     alt="Changing for u"
@@ -141,7 +141,7 @@ export default function Story() {
                     priority
                 />
                 <div className={styles.story_wrap}>
-                    <img
+                    <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mbBM_HyMYPhhbPQntSDM1_ORS1s6qq83ptlU6-w11ohIILFScvK91sNgPVHd-KQvDB-jbVi5xEupZx4FbeNjAW4It5KEvccWXdUIYGoeQOUpz_XwZPr_OBWKpI-WjjycqHxwWajwtjTfiAU398eWlXZ-weIL0Vez0Y5mNbkJzO4zvmKUGh1tY1m-Y_OM8b8Rr?width=2500&height=1500&cropmode=none"
                         alt="Gei hhll"
@@ -155,7 +155,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <img
+                    <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mn_sIDi8JO5_uXXQ4tF97-IYdFvuyToNPUWYplxNbJ7_knq0UZwGvEcp3v64BjlDMCK3gLZ-GVSbuVEZp2Oexe_irUyELdR8MS47ZBgqAUNSldsfG4mkTOCZi5jrUqR5Jy9KeCHBMA_mwfuy6gZcARKBNBlpOL_jJsRqOFdpAHEsrOnCAlq0A8RSp-9J2XgRu?width=2500&height=1500&cropmode=none"
                         alt="Gud hhlls saves the day"
@@ -169,7 +169,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <img
+                    <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4miTZvxlIlU6gVjuioagREK-9o_ENFmbZBiPWmOWrSDhtZqNxNNWVbZrBkmx8DKzJKmAgUzWQQ6kfeV5tigehZDw_LQZSkFruyJ1L_lUUhs5Bb5IlKYNQ4WG-lJ9wAvazsXIEZF9isV8nFznkzruIfqUOjutF2gAHajm-EYupKDO_5KaqttvBxdGWEPU3bvwoF?width=2500&height=1500&cropmode=none"
                         alt="Apologising"
@@ -183,7 +183,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <img
+                    <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4mOwaedI1gQEKINU5vgQieh6IyjVZ7XhpOKKa1BdRsKfhPnYRiqED7IFf_vmhdB0J7UEjnIOdjwhgRALiMmrvyHMCFUN8iR2QUJaIc08dZromg3AP3rHSENGJkGl6ZeBMupN9B6RBGsLMFI8-mMYETeu4hpy3LtYVhr6vNrg8OoFeBfFJdBhb-kZ20P7XOksgq?width=886&height=886&cropmode=none"
                         alt="Pukyuu thrr lyy"
@@ -197,7 +197,7 @@ export default function Story() {
                 </div>
 
                 <div className={styles.story_wrap}>
-                    <img
+                    <Image
                         className={styles.story_image}
                         src="https://dsm01pap007files.storage.live.com/y4m3HsXOSZ-RdmEWv686Ur8zQnmw9kmC4J7wT7OTGmbGhmn1wEFR9Z7v3rqOyfN9cY1ewG218q2ybXBiCEOldgnISwqWenntl05BSjzTYpo6KpyHTCF_HBJbA4T9_avvoAT3yI6LqU1YhgSZtjTSb32Fki17DFrlfFSb9QSmuIGmPacqktQcvnlaSjzVxS8cT_W?width=2500&height=1500&cropmode=none"
                         alt="Promising and forgiving"
